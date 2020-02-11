@@ -1,3 +1,9 @@
+'''
+Exercise: check if a number is even or odd.
+
+Your function should take in an integer and print out the word “even” or “odd” depending on the nature of the input
+'''
+
 def even_or_odd(n):
 
     if n % 2 == 0:
