@@ -1,3 +1,9 @@
+'''
+Exercise: combine two lists/arrays
+
+Write a function that combines two lists by alternatingly taking elements and prints the result
+'''
+
 def combine(list1, list2):
     lst = []
     len1 = len(list1)
