@@ -1,3 +1,9 @@
+'''
+Exercise: Draw an isosceles triangle
+
+Write a function that takes in an integer and then prints out an isosceles using the hash character.
+'''
+
 def isosceles(n):
     h_count = 1
     for i in range(1,n+1):
