@@ -1,3 +1,9 @@
+'''
+Exercise: find the longest string
+
+Write a function that takes in an arra/list of strings and then prints out the longest one
+'''
+
 def longest_word(word_list):
     lw = []
     longest = word_list[0]
