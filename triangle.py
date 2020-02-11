@@ -1,3 +1,10 @@
+'''
+Exercise: Draw a right handed triangle
+
+function takes in an integer and then prints out a right handed triangle using the hash character.
+
+'''
+
 def triangle(n):
     n = int(input("Enter the number of rows: "))
     row = 0
